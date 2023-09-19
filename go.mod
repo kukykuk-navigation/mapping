@@ -1,4 +1,4 @@
-module mapping
+module github.com/kukykuk-navigation/mapping
 
 go 1.20
 
